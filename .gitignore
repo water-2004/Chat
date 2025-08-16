@@ -1,0 +1,47 @@
+# ================= 通用编译产物 =================
+*.o
+*.obj
+*.so
+*.dll
+*.exe
+*.ilk
+*.pdb
+*.idb
+*.log
+
+# ================= CMake / Make / Build 输出 =================
+build*/
+Debug/
+Release/
+x64/
+[Cc]MakeCache.txt
+[Cc]MakeFiles/
+
+# ================= Qt 生成文件 =================
+*.qmake.stash
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+
+# ================= Visual Studio 工程配置 =================
+*.sln
+*.vcxproj
+*.vcxproj.*
+*.vcxproj.user
+*.pro.user
+*.pro.user.*
+*.qtvscr
+.vs/
+
+# ================= Node.js =================
+node_modules/
+
+# ================= IDE 配置 =================
+.idea/
+*.iml
+
+
+# ================= 其他临时文件 =================
+*.log
+*.tmp
+*.bak
