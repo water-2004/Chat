@@ -1,0 +1,16 @@
+{
+  "email": {
+    "user": "fengtang5187473@163.com",
+    "pass": "KBW3f32GBtY5nHkp"
+  },
+  "mysql": {
+    "host": "localhost",
+    "port": 3308,
+    "passwd": "15936002102l"
+  },
+  "redis": {
+    "host": "localhost",
+    "port": 6380,
+    "passwd": "123456"
+  }
+}
